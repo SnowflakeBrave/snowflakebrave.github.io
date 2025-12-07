@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksnowflakebrave=self.webpackChunksnowflakebrave||[]).push([[183],{183:(e,n,s)=>{s.r(n),s.d(n,{default:()=>r});s(43);var a=s(579);const r=function(){return(0,a.jsx)("div",{children:"simultaioen"})}}}]);
+//# sourceMappingURL=183.4626ee8e.chunk.js.map
