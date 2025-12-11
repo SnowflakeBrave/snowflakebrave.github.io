@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.afe512a7.css",
+    "main.css": "/static/css/main.d876224b.css",
     "main.js": "/static/js/main.939b550f.js",
     "static/js/531.79214354.chunk.js": "/static/js/531.79214354.chunk.js",
     "static/js/183.4626ee8e.chunk.js": "/static/js/183.4626ee8e.chunk.js",
@@ -14,14 +14,14 @@
     "static/media/thebells.jpg": "/static/media/thebells.15f316e0e38a956c96f7.jpg",
     "static/media/banner.png": "/static/media/banner.f7eab0d7edccea990212.png",
     "index.html": "/index.html",
-    "main.afe512a7.css.map": "/static/css/main.afe512a7.css.map",
+    "main.d876224b.css.map": "/static/css/main.d876224b.css.map",
     "main.939b550f.js.map": "/static/js/main.939b550f.js.map",
     "531.79214354.chunk.js.map": "/static/js/531.79214354.chunk.js.map",
     "183.4626ee8e.chunk.js.map": "/static/js/183.4626ee8e.chunk.js.map",
     "453.c5b58ab4.chunk.js.map": "/static/js/453.c5b58ab4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe512a7.css",
+    "static/css/main.d876224b.css",
     "static/js/main.939b550f.js"
   ]
 }
